@@ -1,2 +1,2 @@
-# Pagina-Jec-SanPEDRO
+# Pagina-Jec-SanPedro
 pagina web creada por Palomino
